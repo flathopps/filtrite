@@ -1,0 +1,8 @@
+https://googleadservices.com
+https://analyticsengine.s3.amazonaws.com
+https://affiliationjs.s3.amazonaws.com
+https://advertising-api-eu.amazon.com
+https://amazonaax.com
+https://advertising.twitter.com
+https://widgets.pinterest.com
+https://d.reddit.com
