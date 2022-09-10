@@ -4,5 +4,5 @@ advertising-api-eu.amazon.com
 amazonaax.com
 advertising.twitter.com
 d.reddit.com
-https://googleadservices.com
-https://widgets.pinterest.com
+googleadservices.com
+widgets.pinterest.com
