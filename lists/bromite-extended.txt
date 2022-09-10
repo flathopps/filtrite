@@ -37,4 +37,4 @@ https://raw.githubusercontent.com/robonxt/CleanYourTwitter/master/CleanYourTwitt
 https://raw.githubusercontent.com/xarantolus/nervig/main/annoyances.txt
 
 # Trackers
-https://raw.githubusercontent.com/flathopps/filtrite/main/lists/trackers.txt
+https://raw.githubusercontent.com/flathopps/filtrite/main/trackers.txt
